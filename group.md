@@ -12,3 +12,4 @@ title: The Group
 ### Master students
 
 ### Former students
+* [Dr. Cleyton Marcos de Melo Sousa](http://lattes.cnpq.br/0375583823114877)
