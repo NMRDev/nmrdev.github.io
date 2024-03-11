@@ -10,6 +10,7 @@ title: The Group
 ### PhD students
 
 ### Master students
+* [Gisela Camila Paz Sales](http://lattes.cnpq.br/0252864470421182)
 
 ### Former students
 * [Luis Vinícius Gonçalves de Melo](http://lattes.cnpq.br/1733441272525972)
