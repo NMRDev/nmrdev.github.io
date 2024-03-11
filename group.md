@@ -13,6 +13,7 @@ title: The Group
 * [Gisela Camila Paz Sales](http://lattes.cnpq.br/0252864470421182)
 
 ### Former students
+* [Dr. Danilo Gleibson Bernardo da Silva](http://lattes.cnpq.br/9728190296026494)
 * [Luis Vinícius Gonçalves de Melo](http://lattes.cnpq.br/1733441272525972)
 * [Dr. Cleyton Marcos de Melo Sousa](http://lattes.cnpq.br/0375583823114877)
 * [Dr. Rubens Rodrígues Teles](http://lattes.cnpq.br/5305465726831456)
