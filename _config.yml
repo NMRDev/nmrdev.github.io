@@ -20,6 +20,7 @@ author: Armando Navarro-Vázquez
 ###############################################
 
 navbar-links:
+  The Group: "group"
   Research: "research"
   Publications: "publications"
 
