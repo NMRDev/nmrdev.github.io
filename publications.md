@@ -13,6 +13,8 @@ title: Publications
 
 
 ### 2023<a name="2023"></a>
+* [Carvalho, D. S.; da Silva, D. G. B.; Hallwass, F.; Navarro-Vázquez, A. An Acrylonitrile-Based Copolymer Gel as an NMR Alignment Medium for Extraction of Residual Dipolar Couplings of Small Molecules in Aqueous Solution. _ChemPlusChem_ **2023**, __88__, e202200446.](doi.org/10.1002/cplu.202200446)
+
 
 ### 2022<a name="2022"></a>
 
