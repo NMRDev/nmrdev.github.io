@@ -16,6 +16,9 @@ title: Publications
 * [Carvalho, D. S.; da Silva, D. G. B.; Hallwass, F.; Navarro-Vázquez, A. An Acrylonitrile-Based Copolymer Gel as an NMR Alignment Medium for Extraction of Residual Dipolar Couplings of Small Molecules in Aqueous Solution. _ChemPlusChem_ **2023**, __88__, e202200446.](doi.org/10.1002/cplu.202200446)
 * [da Silva Oliveira, L.; Crnkovic, C. M.; de Amorim, M. R.; Navarro-Vázquez, A.; Paz, T. A.; Freire, V. F.; Takaki, M.; Venâncio, T.; Ferreira, A. G.; de Freitas Saito, R.; Chammas, R.; Berlinck, R. G. S. Phomactinine, the First Nitrogen-Bearing Phomactin, Produced by Biatriospora Sp. CBMAI 1333. _J. Nat. Prod_. **2023**, _86_, 2065–2072.](https://doi.org/10.1021/acs.jnatprod.3c00383)
 
+* [Melo, H. D. F. de; Carvalho, D. S.; Hallwass, F.; Sternberg, U.; Navarro-Vázquez, A. Residual Dipolar Couplings as a Tool for Structural Analysis of Ionic Liquids. _Chem. Commun_. **2023**, _59_, 4806–4809.](https://doi.org/10.1039/D3CC00929G)
+
+
 * [Navarro-Vázquez, A. (-)-Amarbellisine Is None Other than (-)-Montanine: A CASE-3D and Dereplication NMR Study. _Phytochem. Lett_. **2023**, _54_, 40–44.](https://doi.org/10.1016/j.phytol.2023.01.011)
 
 * [Silva Elipe, M. V.; Ndukwe, I. E.; Navarro-Vázquez, A. Anisotropic NMR Data Acquisition with a Prototype 400 MHz Cryogen-Free NMR Spectrometer. _Magn. Reson. Chem_. **2023**, _61_, 530–543.](https://doi.org/10.1002/mrc.5380)
