@@ -1,4 +1,4 @@
-# The Group
+The Group
 ## Group leaders
 * Professor Armando Navarro-Vázquez
 * Prof. Fernando Hallwass
