@@ -14,6 +14,8 @@ title: Publications
 
 ### 2023<a name="2023"></a>
 * [Carvalho, D. S.; da Silva, D. G. B.; Hallwass, F.; Navarro-Vázquez, A. An Acrylonitrile-Based Copolymer Gel as an NMR Alignment Medium for Extraction of Residual Dipolar Couplings of Small Molecules in Aqueous Solution. _ChemPlusChem_ **2023**, __88__, e202200446.](doi.org/10.1002/cplu.202200446)
+* [da Silva Oliveira, L.; Crnkovic, C. M.; de Amorim, M. R.; Navarro-Vázquez, A.; Paz, T. A.; Freire, V. F.; Takaki, M.; Venâncio, T.; Ferreira, A. G.; de Freitas Saito, R.; Chammas, R.; Berlinck, R. G. S. Phomactinine, the First Nitrogen-Bearing Phomactin, Produced by Biatriospora Sp. CBMAI 1333. _J. Nat. Prod_. **2023**, _86_, 2065–2072.](https://doi.org/10.1021/acs.jnatprod.3c00383)
+
 * [Silva Elipe, M. V.; Ndukwe, I. E.; Navarro-Vázquez, A. Anisotropic NMR Data Acquisition with a Prototype 400 MHz Cryogen-Free NMR Spectrometer. _Magn. Reson. Chem_. **2023**, _61_, 530–543.](https://doi.org/10.1002/mrc.5380)
 
 
