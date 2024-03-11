@@ -12,4 +12,5 @@ title: The Group
 ### Master students
 
 ### Former students
+* [Luis Vinícius Gonçalves de Melo](http://lattes.cnpq.br/1733441272525972)
 * [Dr. Cleyton Marcos de Melo Sousa](http://lattes.cnpq.br/0375583823114877)
