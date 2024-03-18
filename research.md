@@ -9,6 +9,7 @@ The NMRDev group at the Department of Fundamental Chemistry (Universidade Federa
 
 ### Chromonic liquid crystals
 We are interested in the synthesis, study and application in structural elucidation studies of the so-called [chromonic liquid crystals](https://doi.org/10.1016/S1359-0294(98)80019-8) as weakly-alinging media in NMR, such as, for instance, those based on the bis(perylene diimide) motif. 
+![danilo](https://analyticalsciencejournals.onlinelibrary.wiley.com/cms/asset/b2ea2a31-c7fb-495f-8c1f-0f546c3cba2d/mrc5120-toc-0001-m.jpg)
 ### Polymer gels
 Another type of NMR weakly-aligning media are those based on cross-linked polymer gels. Several polymers and copolymers, compatible with organic solvents, aqueous solutions, and even ionic liquids have been reported by our laboratory.
 
