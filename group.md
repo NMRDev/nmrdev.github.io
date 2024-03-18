@@ -3,7 +3,7 @@ layout: page
 title: The Group
 ---
 ## Group leaders
-* [Professor Armando Navarro-Vázquez](http://lattes.cnpq.br/4535021516243148)
+* [Prof. Armando Navarro-Vázquez](http://lattes.cnpq.br/4535021516243148)
 * [Prof. Fernando Hallwass](http://lattes.cnpq.br/8448407032512419)
 
 ## Students
