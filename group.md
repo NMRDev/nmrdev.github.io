@@ -8,6 +8,7 @@ title: The Group
 
 ## Students
 ### PhD students
+* [José Adonias Alves de França](http://lattes.cnpq.br/5293044797864349)
 
 ### Master students
 * [Gisela Camila Paz Sales](http://lattes.cnpq.br/0252864470421182)
