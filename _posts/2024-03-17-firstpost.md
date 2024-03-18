@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to the NMRDev research group
-subtitle: NMR Research and Development
+subtitle: NMR Development Research Group
 tags: [NMR, computational chemistry]
 author: Armando Navarro Vázquez & Fernando Hallwass
 ---
