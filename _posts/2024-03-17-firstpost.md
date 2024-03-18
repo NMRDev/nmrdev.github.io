@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Welcome to the NMRDev research group
+subtitle: NMR Research and Development
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+tags: [NMR, computational chemistry]
+author: Armando Navarro Vázquez & Fernando Hallwass
 ---
 
-Trial
+Welcome to the NMRDev group page. Find here latest news about our research, publication and Master/Ph-D thesis links, and other information.
