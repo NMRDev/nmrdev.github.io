@@ -8,9 +8,11 @@ title: The Group
 
 ## Students
 ### PhD students
+* [Franciane Gonçalves dos Santos](http://lattes.cnpq.br/4685898574616436)
 * [Gabriela de Paula Cavalcanti](http://lattes.cnpq.br/7078530130409546)
 * [Higor Diego Farias de Melo](http://lattes.cnpq.br/1735460034677894)
 * [José Adonias Alves de França](http://lattes.cnpq.br/5293044797864349)
+* [Leandro Soares da Silva](http://lattes.cnpq.br/1509041646591166)
 
 
 ### Master students
