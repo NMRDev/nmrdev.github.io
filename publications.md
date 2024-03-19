@@ -26,6 +26,7 @@ title: Publications
 
 
 ### 2022<a name="2022"></a>
+* [Fuentes-Monteverde, J. C. C.; Nath, N.; Forero, A. M.; Balboa, E. M.; Navarro-Vázquez, A.; Griesinger, C.; Jiménez, C.; Rodríguez, J. Connection of Isolated Stereoclusters by Combining 13C-RCSA, RDC, and J-Based Configurational Analyses and Structural Revision of a Tetraprenyltoluquinol Chromane Meroterpenoid from Sargassum Muticum. Mar. Drugs **2022**, _20_, 462.](https://doi.org/10.3390/md20070462)
 
 ### Before 2022<a name="before2022"></a>
 
