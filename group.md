@@ -8,8 +8,10 @@ title: The Group
 
 ## Students
 ### PhD students
-* [José Adonias Alves de França](http://lattes.cnpq.br/5293044797864349)
+* [Gabriela de Paula Cavalcanti](http://lattes.cnpq.br/7078530130409546)
 * [Higor Diego Farias de Melo](http://lattes.cnpq.br/1735460034677894)
+* [José Adonias Alves de França](http://lattes.cnpq.br/5293044797864349)
+
 
 ### Master students
 * [Gisela Camila Paz Sales](http://lattes.cnpq.br/0252864470421182)
