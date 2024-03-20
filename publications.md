@@ -28,6 +28,8 @@ title: Publications
 ### 2022<a name="2022"></a>
 * [Fuentes-Monteverde, J. C. C.; Nath, N.; Forero, A. M.; Balboa, E. M.; Navarro-Vázquez, A.; Griesinger, C.; Jiménez, C.; Rodríguez, J. Connection of Isolated Stereoclusters by Combining 13C-RCSA, RDC, and J-Based Configurational Analyses and Structural Revision of a Tetraprenyltoluquinol Chromane Meroterpenoid from Sargassum Muticum. _Mar. Drugs_ **2022**, _20_, 462.](https://doi.org/10.3390/md20070462)
 * [Li, X.-L.; Ru, T.; Navarro-Vázquez, A.; Lindemann, P.; Nazaré, M.; Li, X.-W.; Guo, Y.-W.; Sun, H. Weizhouochrones: Gorgonian-Derived Symmetric Dimers and Their Structure Elucidation Using Anisotropic NMR Combined with DP4+ Probability and CASE-3D. _J. Nat. Prod_. **2022**, _85_, 1730–1737.](https://doi.org/10.1021/acs.jnatprod.2c00257)
+* [Lin, Y.; Li, J.; Qin, S.-Y.; Sun, H.; Yang, Y.-L.; Navarro-Vázquez, A.; Lei, X. Programmable Alignment Media from Self-Assembled Oligopeptide Amphiphiles for the Measurement of Independent Sets of Residual Dipolar Couplings in Organic Solvents. _Chem. Sci._ **2022**, _13_, 5838–5845.(https://doi.org/10.1039/D2SC01057G)
+
 
 
 ### Before 2022<a name="before2022"></a>
