@@ -13,6 +13,7 @@ title: The Group
 * [Higor Diego Farias de Melo](http://lattes.cnpq.br/1735460034677894)
 * [José Adonias Alves de França](http://lattes.cnpq.br/5293044797864349)
 * [Leandro Soares da Silva](http://lattes.cnpq.br/1509041646591166)
+* [Poliana Cristiana da Silva](http://lattes.cnpq.br/5532994809021276)
 
 
 ### Master students
