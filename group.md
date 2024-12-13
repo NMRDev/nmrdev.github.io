@@ -18,6 +18,9 @@ title: The Group
 ### Master students
 * [Gisela Camila Paz Sales](http://lattes.cnpq.br/0252864470421182)
 
+### Undergraduation students
+* [Luiz Henrique Tibiriçá Mendes Feitosa](http://lattes.cnpq.br/6046222076558665)
+
 ### Former students
 * [Dr. Franciane Gonçalves dos Santos](http://lattes.cnpq.br/4685898574616436)
 * [Dr. Danilo Gleibson Bernardo da Silva](http://lattes.cnpq.br/9728190296026494)
