@@ -3,12 +3,13 @@ layout: page
 title: Publications
 ---
 
-1. [2024](#2024)
-2. [2023](#2023)
-3. [2022](#2022)
-4. [Before 2022](#before2022)
+1. [2025](#2025)
+2. [2024](#2024)
+3. [2023](#2023)
+4. [2022](#2022)
+5. [Before 2022](#before2022)
 
-#### 2025<a name=2025"></a>
+#### 2025<a name="2025"></a>
 * [Ndukwe, I. E.; Elipe, M. V. S.; Quasdorf, K.; Navarro-Vázquez, A.; Mardirossian, N.; Khachatrian, D.; Roosen, P. C.; Smith, A. Anisotropic Nuclear Magnetic Resonance Spectroscopy and Density Functional Theory Methodologies Combine with CASE-3D Analysis for Unambiguous Diastereomeric Differentiation of AMG 176 Macrocycles. _ChemistryEurope_ **2025**, _3_, e202500074](doi.org/10.1002/ceur.202500074)
  
 ### 2024<a name="2024"></a>
