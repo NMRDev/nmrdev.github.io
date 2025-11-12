@@ -7,7 +7,10 @@ title: Publications
 2. [2023](#2023)
 3. [2022](#2022)
 4. [Before 2022](#before2022)
-   
+
+#### 2025<a name=2025"></a>
+* [Ndukwe, I. E.; Elipe, M. V. S.; Quasdorf, K.; Navarro-Vázquez, A.; Mardirossian, N.; Khachatrian, D.; Roosen, P. C.; Smith, A. Anisotropic Nuclear Magnetic Resonance Spectroscopy and Density Functional Theory Methodologies Combine with CASE-3D Analysis for Unambiguous Diastereomeric Differentiation of AMG 176 Macrocycles. _ChemistryEurope_ **2025**, _3_, e202500074](doi.org/10.1002/ceur.202500074)
+ 
 ### 2024<a name="2024"></a>
 * [de França, J. A. A.; Navarro-Vázquez, A.; Hallwass, F. Synthesis and Characterization of Grafted Graphene Oxide Materials with Lyotropic Liquid Crystalline Properties Detected by NMR Spectroscopy. _Mater. Lett_. **2024**, 366, 136526.](doi.org/10.1016/j.matlet.2024.136526)
 
