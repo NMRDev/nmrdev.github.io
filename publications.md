@@ -9,6 +9,8 @@ title: Publications
 4. [Before 2022](#before2022)
    
 ### 2024<a name="2024"></a>
+* [de França, J. A. A.; Navarro-Vázquez, A.; Hallwass, F. Synthesis and Characterization of Grafted Graphene Oxide Materials with Lyotropic Liquid Crystalline Properties Detected by NMR Spectroscopy. _Mater. Lett_. **2024**, 366, 136526.](doi.org/10.1016/j.matlet.2024.136526)
+
 * [Cerqueira, G. R. de; Feitosa, R. L. M.; Henrique, M. A.; Andrade, M. F.; Trindade, F. C. da S.; Araujo, E. S.; Junior, W. B.; Navarro-Vázquez, A.; Vinhas, G. M.; Almeida, Y. M. B. de; Morelli, C. L. Grafting of Poly(N-Vinylcaprolactam) in Polyurethane by Gamma Radiation. _Radiat. Phys. Chem_. **2024**, _217_, 111476.](doi.org/10.1016/j.radphyschem.2023.111476)
 
 
