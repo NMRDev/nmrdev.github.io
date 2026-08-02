@@ -4,7 +4,7 @@
 Longitudinal relaxation times are usually measured using the inversion recovery experiment.
 In this experiment the equilibrium magnetization is first inverted by applying a 180º pulse. After the
 inversion the magnetization relax longitudinally during a delay _d_ trying to return to its equilibrium state. 
-The amount of longitudinal magnetization $$ M_z(t) $$ after delay _d_ can be read by appling a 90º pulse which converts it 
+The amount of longitudinal magnetization $M_z(t)$ after delay _d_ can be read by appling a 90º pulse which converts it 
 to observavel transversal magnetization.
 The depdendence of longitudinal magnetization as a function of delay _d_ is described by the following equation 
 
